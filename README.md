@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Salwa Jasmine A'aliyah</h1>
 <h3 align="center">A fourth semester student majoring in software engineering technology from Gadjah Mada University, Indonesia</h3>
 
-- 🔭 I’m currently working on **Rekmed - Basic Application Project**
+- 🔭 I’m currently working on **Auto Cuttings Description**
 
-- 🌱 I’m currently learning **Selenium and Cucumber**
+- 🌱 I’m currently learning **Selenium, Cucumber, and YoloV8**
 
-- 👯 I’m looking to collaborate on **Rekmed Testing**
+- 👯 I’m looking to collaborate on **Team Auto Cuttings Description - PMLD**
 
 - 📫 How to reach me **saljasyah@gmail.com**
 
