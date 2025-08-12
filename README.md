@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salwa Jasmine A'aliyah</h1>
-<h3 align="center">A fourth semester student majoring in software engineering technology from Gadjah Mada University, Indonesia</h3>
+<h3 align="center">A seventh semester student majoring in software engineering technology from Gadjah Mada University, Indonesia</h3>
 
 - 🔭 I’m currently working on **Auto Cuttings Description**
 
